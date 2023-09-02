@@ -1,0 +1,75 @@
+C:\Users\ayşegül\Desktop\NDP\bin\Debug\NDP.exe.config
+C:\Users\ayşegül\Desktop\NDP\bin\Debug\NDP.exe
+C:\Users\ayşegül\Desktop\NDP\bin\Debug\NDP.pdb
+C:\Users\ayşegül\Desktop\NDP\bin\Debug\EntityFramework.dll
+C:\Users\ayşegül\Desktop\NDP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ayşegül\Desktop\NDP\bin\Debug\EntityFramework.xml
+C:\Users\ayşegül\Desktop\NDP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ayşegül\Desktop\NDP\obj\Debug\NDP.csprojAssemblyReference.cache
+C:\Users\ayşegül\Desktop\NDP\obj\Debug\NDP.Form1.resources
+C:\Users\ayşegül\Desktop\NDP\obj\Debug\NDP.Properties.Resources.resources
+C:\Users\ayşegül\Desktop\NDP\obj\Debug\NDP.csproj.GenerateResource.cache
+C:\Users\ayşegül\Desktop\NDP\obj\Debug\NDP.csproj.CoreCompileInputs.cache
+C:\Users\ayşegül\Desktop\NDP\obj\Debug\NDP.csproj.CopyComplete
+C:\Users\ayşegül\Desktop\NDP\obj\Debug\NDP.exe
+C:\Users\ayşegül\Desktop\NDP\obj\Debug\NDP.pdb
+C:\Users\ayşegül\Desktop\NDP\obj\Debug\NDP.Migrations.InitialCreate.resources
+C:\Users\ayşegül\Desktop\NDP\obj\Debug\NDP.Form3.resources
+C:\Users\ayşegül\Desktop\NDP\obj\Debug\NDP.Form4.resources
+C:\Users\ayşegül\Desktop\NDP\obj\Debug\NDP.Form2.resources
+C:\Users\ayşegül\Desktop\NDP\obj\Debug\NDP.Form5.resources
+C:\Users\ayşegül\Desktop\NDP\obj\Debug\NDP.Form6.resources
+C:\Users\ayşegül\Desktop\NDP\obj\Debug\NDP.Form7.resources
+C:\Users\ayşegül\Desktop\NDP\obj\Debug\NDP.Migrations.CreateKullaniciAdiColumnInKitapAlsTable.resources
+C:\Users\ayşegül\Desktop\NDP\obj\Debug\NDP.Migrations.CreateIdColumnInİadeTable.resources
+C:\Users\ayşegül\Desktop\NDP\obj\Debug\NDP.Migrations.CreateIdColumnInKitapAlsTable.resources
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\bin\Debug\NDP.exe.config
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\bin\Debug\NDP.exe
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\bin\Debug\NDP.pdb
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\bin\Debug\EntityFramework.dll
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\bin\Debug\EntityFramework.xml
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.csprojAssemblyReference.cache
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Form1.resources
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Form2.resources
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Form3.resources
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Form4.resources
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Form5.resources
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Form6.resources
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Form7.resources
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Migrations.InitialCreate.resources
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Migrations.CreateKullaniciAdiColumnInKitapAlsTable.resources
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Migrations.CreateIdColumnInİadeTable.resources
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Migrations.CreateIdColumnInKitapAlsTable.resources
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Properties.Resources.resources
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.csproj.GenerateResource.cache
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.csproj.CoreCompileInputs.cache
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.csproj.CopyComplete
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.exe
+C:\Users\ayşegül\Desktop\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.pdb
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\bin\Debug\NDP.exe.config
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\bin\Debug\NDP.exe
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\bin\Debug\NDP.pdb
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\bin\Debug\EntityFramework.dll
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\bin\Debug\EntityFramework.xml
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.csprojAssemblyReference.cache
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Form1.resources
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Form2.resources
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Form3.resources
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Form4.resources
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Form5.resources
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Form6.resources
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Form7.resources
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Migrations.InitialCreate.resources
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Migrations.CreateKullaniciAdiColumnInKitapAlsTable.resources
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Migrations.CreateIdColumnInİadeTable.resources
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Migrations.CreateIdColumnInKitapAlsTable.resources
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.Properties.Resources.resources
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.csproj.GenerateResource.cache
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.csproj.CoreCompileInputs.cache
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.csproj.CopyComplete
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.exe
+C:\Users\ayşegül\Desktop\ODEVLERRRR\NDP FİNAL PROJESİ\NDP\obj\Debug\NDP.pdb
