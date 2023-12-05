@@ -1,11 +1,5 @@
 # Library Automation with Code First
 
-# Navigate to the project directory
-cd Library-Automation-with-Code-First
-
-# Install dependencies (if any)
-# Add specific instructions for your project
-
 ## Project Overview
 This is a Library Automation Project developed using Code First. The system includes features for user login, book management, borrowing transactions, and administrator controls.
 
@@ -46,3 +40,9 @@ This interface encompasses book addition, deletion, editing, and return operatio
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/saygix/Library-Automation-with-Code-First.git
+
+# Navigate to the project directory
+cd Library-Automation-with-Code-First
+
+# Install dependencies (if any)
+# Add specific instructions for your project
